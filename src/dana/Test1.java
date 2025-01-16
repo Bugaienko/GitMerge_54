@@ -1,7 +1,7 @@
-package Dana;
+package dana;
 
 public class Test1 {
     public static void main(String[] args) {
-        System.out.println("ИЛЬНИЦКАЯ ДАНА");
+        System.out.println("Иьлницкая Дана");
     }
 }
